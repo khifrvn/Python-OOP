@@ -19,3 +19,5 @@ objek = C()
 objek.showA()
 objek.showB()
 help(objek)  # -------> melihat urutan method
+
+# best to learn
