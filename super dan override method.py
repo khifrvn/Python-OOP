@@ -23,6 +23,7 @@ class Hero_intellegent(Hero):
         print("Show info di subclass hero_intellegent")
         print("{} \n\tTipe: intelegent, \n\thelath :{}".format(self.name,self.health))
 
+# Override
 class Hero_strength(Hero):
     def __init__(self, name):
         super().__init__(name, 200)
