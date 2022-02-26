@@ -91,7 +91,7 @@ def main():
                 displayHands(playerHand, dealerHand, False)
 
                 if getHandValue(dealerHand) > 21:
-                    break  # Dealer busted.
+                    break  # Dealer got busted haha
                 input('Tekan enter untuk melanjutkan...')
                 print('\n\n')
 
