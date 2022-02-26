@@ -9,7 +9,7 @@ CLUBS    = chr(9827) # Character 9827 is 'â™£'.
 # (A list of chr codes is at https://inventwithpython.com/charactermap)
 BACKSIDE = 'backside'
 
-
+# main program
 def main():
     print('''Blackjack, tqtq al sweigart
 
