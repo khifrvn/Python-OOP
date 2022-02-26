@@ -56,6 +56,7 @@ def main():
                 break
 
             # Player move, antara H, S, or D:
+            # player moving
             move = getMove(playerHand, money - bet)
 
             # Handle untuk player actions:
