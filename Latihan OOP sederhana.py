@@ -25,7 +25,7 @@ class Hero:  # TEMPLATE
             print("Attack gagal")
 
 
-
+    # buat method
     def diserang(self):
         print(self.name + ' Diserang ')
 
