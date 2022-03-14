@@ -14,6 +14,7 @@ class Hero:  # TEMPLATE
         print(self.name + ' Menyerang ' + lawan.name)
         serangan = int(input("Serang dengan : "))
         lawan.diserang()
+        # Kondisi
         if serangan < int(self.attack):
             print(lawan.name, 'Terkena damage sebesar: ', serangan)
             print("Sisa defence : ", lawan.defence - serangan)
