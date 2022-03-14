@@ -22,6 +22,7 @@ class Hero:  # TEMPLATE
         elif serangan == lawan.defence:
             print(lawan.name, "Defeated")
         else:
+            # print
             print("Attack gagal")
 
 
