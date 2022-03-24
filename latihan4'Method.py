@@ -3,7 +3,7 @@ class Hero:  # TEMPLATE
     jumlah = 0
 
     def __init__(self, name, health, attack, defence):
-        # INSTANCE VARIABEL
+        # INSTANCE VARIABEL NIHH
         self.name = name
         self.health = health
         self.attack = attack
