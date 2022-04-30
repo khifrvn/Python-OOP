@@ -2,7 +2,6 @@
 # memaksa class untuk menginplementasikan methodnya
 # abc = abstact base class
 # ok..
-# oc..
 from abc import ABC, abstractmethod
 
 
