@@ -4,7 +4,7 @@
 # ok..
 from abc import ABC, abstractmethod
 
-
+# class
 class Button(ABC):  # BUTTON INI INHERIT ABC JADI CLASS ABSTRACT
 
     def __init__(self,set_link):
