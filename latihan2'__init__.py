@@ -1,4 +1,4 @@
-class Hero:  # TEMPLATE
+class Hero:
 
     def __init__(self, name, health, attack, defence):
         self.name = name
