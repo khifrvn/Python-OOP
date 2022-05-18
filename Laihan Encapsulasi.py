@@ -2,7 +2,7 @@ class Hero:
 
     # private class variabel
 
-    __jumlah = 0
+    __jumlah = 0 # jumlah varibael
 
     def __init__(self, name, health, attPower, armor):
         self.__name = name
