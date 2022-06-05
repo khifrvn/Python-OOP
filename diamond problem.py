@@ -1,5 +1,5 @@
 # diamond problem
-# problem 
+# problem solve
 
 class A:
 
