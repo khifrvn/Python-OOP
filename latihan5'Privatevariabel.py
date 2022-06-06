@@ -27,9 +27,11 @@ class Hero:  # TEMPLATE
     # INI METHOD DENGAN RETURN
     def getHelath(self):
         return self.health
+    
+    
 
 
-
+# Hero
 hero1 = Hero('Sniper', 100, 500, 50)    # OBJECT / INSTANCE
 hero2 = Hero('Sven', 500, 250, 100)
 hero3 = Hero('Mirana', 150, 400, 25)
